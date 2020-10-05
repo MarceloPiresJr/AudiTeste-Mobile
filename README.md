@@ -20,7 +20,6 @@
 
 ## Instalação  Dependências
 
-"*Para a execução dos comando abaixo é necessário o python instalado em sua maquina.*"
 
 ```
 //execute somente com python instalado.
