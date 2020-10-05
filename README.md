@@ -72,7 +72,7 @@ Na aba "Avançado" clique em "Variáveis de Ambiente"
 
 - nome da variável:  JAVA_HOME
 
-  - Valor da variável: C:\Program Files\Java\jdk"versão instalada"			<= //procure na pasta especificada para saber a versão correta do "jdk"
+- Valor da variável: C:\Program Files\Java\jdk"versão instalada"			<= //procure na pasta especificada para saber a versão correta do "jdk"
 
 
 - nome da variável:  ANDROID_HOME
